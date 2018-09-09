@@ -1,0 +1,4 @@
+[submodule "Meerstetter/TEC1122"]
+	path = Meerstetter/TEC1122
+	url = https://github.com/djvine/TEC1122.git
+	branch = master
